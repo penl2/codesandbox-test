@@ -1,0 +1,15 @@
+a.p-toc__link.mkj-active {
+  background-color: #f8ffb9;
+}
+
+li.mkj-marker::before {
+  background-color: #f8ffb9;
+}
+
+a.p-toc__link.current {
+  background-color: #f8ffb9;
+}
+
+li.current::before {
+  background-color: #f8ffb9;
+}
