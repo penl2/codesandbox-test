@@ -1,4 +1,5 @@
 import "./style.css";
+console.log("test1");
 
 document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla!</h1>
@@ -8,8 +9,6 @@ document.getElementById("app").innerHTML = `
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
 </div>
 `;
-
-console.log("test");
 
 console.log("JavaScriptを実行しています");
 var elems = document.querySelectorAll(".widget_swell_index a");
