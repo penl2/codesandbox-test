@@ -16,6 +16,6 @@ var elems = document.querySelectorAll(".widget_swell_index a");
 
 //var current_flag;
 
-console.log(elems);
+console.log(elems.length);
 console.log("表示完了");
 console.log(elems.length);
