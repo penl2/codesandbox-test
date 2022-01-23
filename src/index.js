@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./style.css";
 
 document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla!</h1>
@@ -13,9 +13,6 @@ console.log("test");
 
 console.log("JavaScriptを実行しています");
 var elems = document.querySelectorAll(".widget_swell_index a");
-if (!elems) {
-  return;
-}
 
 //var current_flag;
 
